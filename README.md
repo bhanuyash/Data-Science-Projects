@@ -69,22 +69,77 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 <a id="resume"></a>
 # Resume
 
-<table align="center">
-<tr>
-<td>
 
-## **BHANU PRATAP REDDY**
+# BHANU PRATAP REDDY
 
-</td>
-</tr>
-</table>
+- 📧 [bhanuyash@gmail.com](mailto:bhanuyash@gmail.com)
+- 📞 +91 9108372749
+- [LinkedIn](https://linkedin.com/in/bhanuyash)
+- [GitHub](https://github.com/bhanuyash)
+- 📍 Bangalore, India
 
-<table align="center">
-<tr>
-<td>
+## PROFESSIONAL SUMMARY
 
-### **Contact Information**
+As an experienced Electrical Engineer with 3 years of experience in R&D and a General Manager of a healthcare company, I have honed my skills in managing complex datasets, performing data analytics, and machine learning.
 
-</td>
-</tr>
-</table>
+## EDUCATION
+
+### **Master’s in Data Science** | _Institute of Data Science, Mysore, India_ | _2022 - Present_
+
+- Pursuing a comprehensive curriculum covering machine learning, data analytics, and artificial intelligence.
+
+### **B.Tech in Electrical and Electronics Engineering** | _VTU, Belgaum, India_ | _2014 - 2018_
+
+- Completed coursework in electrical engineering principles, circuit design, and control systems.
+
+## SKILLS
+
+| **Category**                                      | **Skills**                                               |
+|---------------------------------------------------|----------------------------------------------------------|
+| **Machine Learning**                              | Regression, Clustering, KNN, Ensemble, Time Series       |
+| **Statistical Methods & Unsupervised Learning**   | Hypothesis Testing, PCA, Univariate/Bivariate Analysis   |
+| **Visualization**                                 | Seaborn, Matplotlib, Plotly, Tableau, Power BI            |
+| **Natural Language Processing**                   | Text Mining, Text Analytics                              |
+| **Deep Learning & Language Models**               | TensorFlow, Keras, Prompt Engineering                    |
+| **Programming**                                   | Python, SQL, C, MATLAB                                   |
+
+## PROFESSIONAL EXPERIENCE
+
+### **General Manager** | _Bharath Clinics and Women's Specialty Trust, Bangalore, India_ | _Jan 2022 - Present_
+
+- Managing a team of doctors, nurses, and administrative staff.
+- Implementing strategies to improve service quality and efficiency.
+- Overseeing financial, operational, and administrative functions.
+
+### **R&D Electrical Engineer** | _Schneider Electric, Bangalore, India_ | _Jun 2018 - Dec 2021_
+
+- Worked on design and development of electrical circuits for switchgear products.
+- Collaborated with cross-functional teams to improve product quality and efficiency.
+- Conducted data analysis to optimize performance and reliability.
+
+## PROJECTS
+
+### **Customer Segmentation**
+
+- Utilized K-means clustering to segment customers based on purchasing behavior.
+- Developed visualizations to communicate segment characteristics and insights.
+
+### **Sales Forecasting**
+
+- Implemented time series forecasting models to predict future sales.
+- Optimized models to improve accuracy and performance.
+
+## CERTIFICATIONS
+
+- **Data Science Certification** | _Coursera_ | _2022_
+- **Machine Learning Certification** | _Udemy_ | _2021_
+
+## LANGUAGES
+
+- English
+- Hindi
+- Kannada
+
+---
+
+_This resume is a representation and may not include all details due to space limitations. For more information, please reach out directly._
