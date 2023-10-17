@@ -68,29 +68,41 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 ---
 <a id="resume"></a>
 # Resume
+<table align="center">
+<tr>
+<td>
 
+## **BHANU PRATAP REDDY**
 
-# BHANU PRATAP REDDY
+</td>
+</tr>
+</table>
 
 - 📧 [bhanuyash@gmail.com](mailto:bhanuyash@gmail.com)
 - 📞 +91 9108372749
 - [LinkedIn](https://linkedin.com/in/bhanuyash)
-- [GitHub](https://github.com/bhanuyash)
 - 📍 Bangalore, India
 
-## PROFESSIONAL SUMMARY
+<table align="center">
+<tr>
+<td>
 
-As an experienced Electrical Engineer with 3 years of experience in R&D and a General Manager of a healthcare company, I have honed my skills in managing complex datasets, performing data analytics, and machine learning.
+## **PROFESSIONAL SUMMARY**
+
+</td>
+</tr>
+</table>
+
+As an experienced Electrical Engineer with 3 years of experience in R&D and a General Manager of a healthcare company, I have honed my skills in managing complex datasets, perform statistical analyses, derive insights from data, project management, operations, and leadership. I have also developed a good foundation in data analysis, machine learning, and programming in Python given my background in the tech domain. With a strong passion for data science and a demonstrated track record of success in previous roles, I am eager to apply my skills to deliver in the field of data science.
 
 ## EDUCATION
 
-### **Master’s in Data Science** | _Institute of Data Science, Mysore, India_ | _2022 - Present_
+| **Degree**                                             | **Institution**                                     | **Location**            | **Year**         |
+|--------------------------------------------------------|-----------------------------------------------------|-------------------------|------------------|
+| B.E. in Electronics and Communication Engineering      | PES University                                      | Bangalore, India        | 2010 - 2014     |
+| M.Sc. in Elecrical and Computer Engineering            | University of California, Irvine                    | Irvine, CA, USA         | 2014 - 2016     |
+| Master’s in Data Science                               | Deakin University                                   | Melbourne, Australia    | 2022 - 2024     |
 
-- Pursuing a comprehensive curriculum covering machine learning, data analytics, and artificial intelligence.
-
-### **B.Tech in Electrical and Electronics Engineering** | _VTU, Belgaum, India_ | _2014 - 2018_
-
-- Completed coursework in electrical engineering principles, circuit design, and control systems.
 
 ## SKILLS
 
@@ -98,48 +110,42 @@ As an experienced Electrical Engineer with 3 years of experience in R&D and a Ge
 |---------------------------------------------------|----------------------------------------------------------|
 | **Machine Learning**                              | Regression, Clustering, KNN, Ensemble, Time Series       |
 | **Statistical Methods & Unsupervised Learning**   | Hypothesis Testing, PCA, Univariate/Bivariate Analysis   |
-| **Visualization**                                 | Seaborn, Matplotlib, Plotly, Tableau, Power BI            |
+| **Visualization**                                 | Seaborn, Matplotlib, Plotly, Tableau, Power BI           |
 | **Natural Language Processing**                   | Text Mining, Text Analytics                              |
 | **Deep Learning & Language Models**               | TensorFlow, Keras, Prompt Engineering                    |
 | **Programming**                                   | Python, SQL, C, MATLAB                                   |
 
 ## PROFESSIONAL EXPERIENCE
 
-### **General Manager** | _Bharath Clinics and Women's Specialty Trust, Bangalore, India_ | _Jan 2022 - Present_
+### **Data Science Intern** | _Cogniquest Technilogies, Bangalore, India_ | _Aug 2023 - Present_
 
-- Managing a team of doctors, nurses, and administrative staff.
-- Implementing strategies to improve service quality and efficiency.
-- Overseeing financial, operational, and administrative functions.
+- Independantly worked on a Time series analytics project to help clients analyze usage and purchase costs as well as forecast.
+- Independantly implementad a document classification pipeline to train model, export it, classify given docs and updtae trained model when more training data is available.
+- Adapted dewarping code for internal use and added own processes for deskewing and watermark removal for a generalize preprocessing function.
 
-### **R&D Electrical Engineer** | _Schneider Electric, Bangalore, India_ | _Jun 2018 - Dec 2021_
+### **Strategist** | _Bharath Clinics and Women's Specialty Trust, Bangalore, India_ | _Jan 2019 - Present_
 
-- Worked on design and development of electrical circuits for switchgear products.
-- Collaborated with cross-functional teams to improve product quality and efficiency.
-- Conducted data analysis to optimize performance and reliability.
+-	Managed and ran the Evening Clinics program and worked on various public health projects under the National Urban Health Mission for BBMP.
+-	Led a team of 40+ doctors to provide healthcare services for public health projects across Bangalore 
+- Implemented data-driven strategies in the Evening Clinics program and public health projects
 
-## PROJECTS
 
-### **Customer Segmentation**
+### **Electrical Engineer 1** | _Glaukos Corporation, San Clemente, CA, USA_ | _Jun 2016 - Dec 2019_
 
-- Utilized K-means clustering to segment customers based on purchasing behavior.
-- Developed visualizations to communicate segment characteristics and insights.
+- Designed task-specific fixtures using embedded coding in C/LabView.
+-	Developed an in-house Orcad CIS database of electrical parts.
+-	Utilized Matlab for algorithm translation and data processing.
+-	Conducted testing and debugging of RF setups, ICs, and sensor setups.
 
-### **Sales Forecasting**
 
-- Implemented time series forecasting models to predict future sales.
-- Optimized models to improve accuracy and performance.
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 
-- **Data Science Certification** | _Coursera_ | _2022_
-- **Machine Learning Certification** | _Udemy_ | _2021_
+- **Data Science Certification** -	Post graduate program in data science and business analytics at Great Lakes Executive Learning in partnership with University of Texas at Austin. Completed successfully on June 2023.
 
-## LANGUAGES
+### PUBLICATION
 
-- English
-- Hindi
-- Kannada
-
+- Steffen Peter, Bhanu Pratap Reddy, Farshad Doktor Momtaz, Tony Givargis. (2016). Design of Secure ECG-based Biometric Authentication in Body Area Sensor Networks. MDPI ‘Sensors’ Journal.16(4), 570. DOI:10.3390/s16040570
 ---
 
-_This resume is a representation and may not include all details due to space limitations. For more information, please reach out directly._
+
