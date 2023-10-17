@@ -4,47 +4,21 @@ This repository hosts a collection of Data Science projects showcasing my skills
 
 ## Projects
 
-- **Project 1**: _Health Insurance Premium Cost Optimization - Capstone_
-  - **Tools/Skillset Used**: EDA, Linear regression, Polynomial Regression, XGBoost
+| **Project Title**                                             | **Description**                                                                                       | **Tools/Skillset Used**                                                   |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **Health Insurance Premium Cost Optimization - Capstone**     | Optimize the cost of health insurance premiums                                                        | EDA, Linear Regression, Polynomial Regression, XGBoost                    |
+| **League of Legends Esports Analysis**                        | A quantitative analysis of FNATIC's 2022 performance and insights into the Durability patch effects   | EDA, Clustering, Data Mining, Silhouette Score, Segmentation               |
+| **Election Prediction**                                       | Survey of multiple supervised learning models for election prediction                                 | Text Mining, SVM, KNN, Naive Bayes, Ensemble Techniques, Logistic Regression, LDA, Random Forest, Grid Search |
+| **Document Clustering**                                       | Clustering with multiple vectorizations                                                               | NLP, K-Means Clustering, Vectorization                                    |
+| **Document Classification**                                   | Survey of supervised learning models for document classification based on different vectorizations    | NLP, Machine Learning, Vectorization                                      |
+| **E-Commerce Site Analytics**                                 | Analytical insights into an e-commerce website                                                         | EDA, Data Preprocessing                                                   |
+| **Global Ocean Temperature - Time Series Analytics**          | Analyzing trends and patterns in global ocean temperatures over time                                   | Time Series, ARIMA, SARIMA                                                |
+| **Marketing Company - Data Mining**                           | Data mining to extract valuable insights for a marketing company                                       | EDA, Clustering, PCA                                                      |
+| **Application of Advanced Statistics**                        | Applying advanced statistical methods to derive insights                                               | Advanced Statistics, Hypothesis Testing                                   |
+| **Processor Performance Modelling**                           | Modelling and predicting processor performance                                                         | EDA, Linear Regression                                                    |
+| **Wine Sales - Time Series Analytics**                        | Time series analysis of wine sales to predict future trends                                            | Time Series Data Analysis, Exponential Smoothing, ARIMA/SARIMA, Moving Average |
 
 
-- **Project 2**: _League of Legends Eports analysis - A quantative Analysis of FNATIC's 2022 Year performance and insight into the Durability patch and its effect._
-  - **Tools/Skillset Used**: EDA, Clustering, Data Mining, Silhouette Score, Segmentation
-
-
-- **Project 3**: _Election Prediction - Survey of Multiple Supervised Learning Models_
-  - **Tools/Skillset Used**: : Text mining analytics, support vector machine, k nearest neighbour , naive bayes, ensemble techniques, logistic regression, linear discriminant analysis, Random Forest, Grid Search
-
-
-- **Project 4**: _Document Clustering - Clustering carried out with multiple vectorizations_
-  - **Tools/Skillset Used**: NLP, K Means Clustering, Vecorization
-
-
-- **Project 5**: _Document Classification - Survey of Supervised learning Models to classify doceuments based on different Vectorizations_
-  - **Tools/Skillset Used**: NLP, Machine Learning, Vecorization
-
-
-- **Project 6**: _E-Commerce site Analytics_
-  - **Tools/Skillset Used**: EDA, Data Preprocessing
-
-
-- **Project 7**: _Global Ocean Temperature - A Time series Analytics_
-  - **Tools/Skillset Used**: Time Series, ARIMA, SARIMA
-
-
-- **Project 8**: _Marketing Company - Data Mining_
-  - **Tools/Skillset Used**: EDA, Clustering , PCA
-
-- **Project 9**: _Application of Advanced Statistics_
-  - **Tools/Skillset Used**: Advanced Statistics, Hypothesis testing
-
-
-- **Project 10**: _Processor Performance Modelling_
-  - **Tools/Skillset Used**: EDA, Linear Regression
-
-
-- **Project 11**: _Wine Sales - A time series Analytics_
-  - **Tools/Skillset Used**: Time Series Data Analysis, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
 
 
 
