@@ -70,11 +70,11 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 # Resume
 
 <div style="text-align: center; font-size: 30px; font-weight: bold;"">
-BHANU PRATAP REDDY
+##BHANU PRATAP REDDY
 </div>
 
 
 <div style="text-align: center; font-size: 20px;">
-Contact Information
+##Contact Information
 
 </div>
