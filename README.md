@@ -1,18 +1,53 @@
-# Data Science Projects by Bhanu Yash
+# Data Science Projects Portfolio - Bhanu Pratap Reddy
 
-This repository hosts a collection of Data Science projects showcasing my skills and experiences in the field. Each project folder contains all the necessary files and resources, along with business reports and images to better understand the problem tackled and the solution provided.
+This repository hosts a collection of Data Science projects showcasing my skills and experiences in the field. Each project folder contains all the necessary files and resources, along with business reports (for most but not all) and images to better understand the problem tackled and the solution provided.
 
 ## Projects
 
-- **Project 1**: _Description of project 1_
-  - **Technologies Used**: Technology A, Technology B
+- **Project 1**: _League of Legends Eportis analysis - A quantative Analysis of FNATIC's 2022 Year and the Durability patch and its effect._
+  - **Tools/Skillset Used**: Technology A, Technology B
   - **Libraries**: Library X, Library Y
 
 - **Project 2**: _Description of project 2_
-  - **Technologies Used**: Technology C, Technology D
+  - **Tools/Skillset Used**: Technology C, Technology D
   - **Libraries**: Library Z, Library W
 
-... (and so on for each project)
+- **Project 3**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 4**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 5**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 6**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 7**: _Description of project 1_
+  - **Tools/Skillset Used**: Technology A, Technology B
+  - **Libraries**: Library X, Library Y
+
+- **Project 8**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 9**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 10**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
+- **Project 11**: _Description of project 2_
+  - **Tools/Skillset Used**: Technology C, Technology D
+  - **Libraries**: Library Z, Library W
+
 
 ## Skills Demonstrated
 
