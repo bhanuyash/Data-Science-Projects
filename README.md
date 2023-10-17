@@ -66,7 +66,14 @@ Feel free to fork this repository, contribute, and propose pull requests. For ma
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+<div align="center">
 <a id="resume"></a>
 # Resume
 
+</div>
+
+
+<div align="center">
 ## Contact Information
+
+</div>
