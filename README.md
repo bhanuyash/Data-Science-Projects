@@ -69,12 +69,10 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 <a id="resume"></a>
 # Resume
 
-<div style="text-align: center; font-size: 30px; font-weight: bold;"">
-##BHANU PRATAP REDDY
+<div style="text-align: center; font-size: 30px; font-weight: bold;">
+<h2>BHANU PRATAP REDDY</h2>
 </div>
 
-
 <div style="text-align: center; font-size: 20px;">
-##Contact Information
-
+<h2>Contact Information</h2>
 </div>
