@@ -1,10 +1,10 @@
 # Data Science Projects Portfolio - Bhanu Pratap Reddy
 
-This repository hosts a collection of Data Science projects showcasing my skills and experiences in the field. Each project folder contains all the necessary files and resources, along with business reports (for most but not all) and images to better understand the problem tackled and the solution provided.
+This repository hosts a collection of Data Science projects showcasing my skills and experiences in the field. Each project folder contains all the necessary files and resources, along with business reports (for most but not all) and images to better understand the problem tackled and the solution provided.- [Jump to Resume](#resume)
 
 ## Projects
 
-- **Project 1**: _League of Legends Eportis analysis - A quantative Analysis of FNATIC's 2022 Year and the Durability patch and its effect._
+- **Project 1**: _League of Legends Eports analysis - A quantative Analysis of FNATIC's 2022 Year performance and insight into the Durability patch and its effect._
   - **Tools/Skillset Used**: Clustering, EDA
   - **Libraries**: KMeans, SilhouetteVisualizer, dendogram, linkage
 
@@ -64,3 +64,9 @@ Feel free to fork this repository, contribute, and propose pull requests. For ma
 
 ## License
 This repository is licensed under the MIT License - see the LICENSE file for details.
+
+---
+<a id="resume"></a>
+# Resume
+
+## Contact Information
