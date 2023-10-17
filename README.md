@@ -113,7 +113,7 @@ As an experienced Electrical Engineer with 3 years of experience in R&D and a Ge
 </tr>
 </table>
 
-### **Data Science Intern** | _Cogniquest Technilogies, Bangalore, India_ | _Aug 2023 - Present_
+### **Data Science Intern** | _Cogniquest AI Technologies, Bangalore, India_ | _Aug 2023 - Present_
 
 - Independantly worked on a Time series analytics project to help clients analyze usage and purchase costs as well as forecast.
 - Independantly implementad a document classification pipeline to train model, export it, classify given docs and updtae trained model when more training data is available.
