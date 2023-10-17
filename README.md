@@ -4,49 +4,49 @@ This repository hosts a collection of Data Science projects showcasing my skills
 
 ## Projects
 
-- **Project 1**: _League of Legends Eports analysis - A quantative Analysis of FNATIC's 2022 Year performance and insight into the Durability patch and its effect._
-  - **Tools/Skillset Used**: Clustering, EDA
-  - **Libraries**: KMeans, SilhouetteVisualizer, dendogram, linkage
+- **Project 1**: _Health Insurance Premium Cost Optimization - Capstone_
+  - **Tools/Skillset Used**: EDA, Linear regression, Polynomial Regression, XGBoost
 
-- **Project 2**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
 
-- **Project 3**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
+- **Project 2**: _League of Legends Eports analysis - A quantative Analysis of FNATIC's 2022 Year performance and insight into the Durability patch and its effect._
+  - **Tools/Skillset Used**: EDA, Clustering, Data Mining, Silhouette Score, Segmentation
 
-- **Project 4**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
 
-- **Project 5**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
+- **Project 3**: _Election Prediction - Survey of Multiple Supervised Learning Models_
+  - **Tools/Skillset Used**: : Text mining analytics, support vector machine, k nearest neighbour , naive bayes, ensemble techniques, logistic regression, linear discriminant analysis, Random Forest, Grid Search
 
-- **Project 6**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
 
-- **Project 7**: _Description of project 1_
-  - **Tools/Skillset Used**: Technology A, Technology B
-  - **Libraries**: Library X, Library Y
+- **Project 4**: _Document Clustering - Clustering carried out with multiple vectorizations_
+  - **Tools/Skillset Used**: NLP, K Means Clustering, Vecorization
 
-- **Project 8**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
 
-- **Project 9**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
+- **Project 5**: _Document Classification - Survey of Supervised learning Models to classify doceuments based on different Vectorizations_
+  - **Tools/Skillset Used**: NLP, Machine Learning, Vecorization
 
-- **Project 10**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
 
-- **Project 11**: _Description of project 2_
-  - **Tools/Skillset Used**: Technology C, Technology D
-  - **Libraries**: Library Z, Library W
+- **Project 6**: _E-Commerce site Analytics_
+  - **Tools/Skillset Used**: EDA, Data Preprocessing
+
+
+- **Project 7**: _Global Ocean Temperature - A Time series Analytics_
+  - **Tools/Skillset Used**: Time Series, ARIMA, SARIMA
+
+
+- **Project 8**: _Marketing Company - Data Mining_
+  - **Tools/Skillset Used**: EDA, Clustering , PCA
+
+- **Project 9**: _Application of Advanced Statistics_
+  - **Tools/Skillset Used**: Advanced Statistics, Hypothesis testing
+
+
+- **Project 10**: _Processor Performance Modelling_
+  - **Tools/Skillset Used**: EDA, Linear Regression
+
+
+- **Project 11**: _Wine Sales - A time series Analytics_
+  - **Tools/Skillset Used**: Time Series Data Analysis, Exponential Smoothing Models, ARIMA/SARIMA Models, Moving Average Models
+
+
 
 
 ## Skills Demonstrated
