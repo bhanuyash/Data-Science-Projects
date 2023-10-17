@@ -5,8 +5,8 @@ This repository hosts a collection of Data Science projects showcasing my skills
 ## Projects
 
 - **Project 1**: _League of Legends Eportis analysis - A quantative Analysis of FNATIC's 2022 Year and the Durability patch and its effect._
-  - **Tools/Skillset Used**: Technology A, Technology B
-  - **Libraries**: Library X, Library Y
+  - **Tools/Skillset Used**: Clustering, EDA
+  - **Libraries**: KMeans, SilhouetteVisualizer, dendogram, linkage
 
 - **Project 2**: _Description of project 2_
   - **Tools/Skillset Used**: Technology C, Technology D
