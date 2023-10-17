@@ -21,17 +21,15 @@ This repository hosts a collection of Data Science projects showcasing my skills
 
 
 
-
 ## Skills Demonstrated
 
-- **Data Cleaning and Preprocessing:** Applied in projects like E-Commerce Site Analytics for preparing and transforming raw data into a usable format.
-- **Exploratory Data Analysis (EDA):** Utilized in multiple projects including Health Insurance Premium Cost Optimization and League of Legends Esports Analysis for understanding the data's underlying structure and trends.
-- **Machine Learning Modeling:** Employed various machine learning algorithms in Election Prediction, Document Classification, and other projects.
-- **Statistical Analysis:** Applied advanced statistical methods in the project Application of Advanced Statistics for hypothesis testing and data analysis.
-- **Data Visualization:** Integral in EDA processes for projects like League of Legends Esports Analysis, facilitating the understanding of data trends and patterns.
-- **Natural Language Processing:** Used in Document Clustering and Document Classification for processing and analyzing text data.
-- **Time Series Analysis:** Applied in Global Ocean Temperature and Wine Sales projects for analyzing and forecasting data indexed in time order.
-- **Clustering and Segmentation:** Utilized in Marketing Company Data Mining and League of Legends Esports Analysis for grouping data points into segments based on similarities.
+- **Data Cleaning and Preprocessing:** Essential in E-Commerce Site Analytics and other projects for data transformation.
+- **Exploratory Data Analysis:** Applied in Health Insurance and Esports Analysis projects for data insights.
+- **Machine Learning:** Used various algorithms in Election Prediction and Document Classification.
+- **Statistical Analysis:** Implemented in Advanced Statistics project for data insights.
+- **Data Visualization:** Applied in multiple projects for visual data insights.
+- **Natural Language Processing:** Utilized in Document Clustering for text data analysis.
+- **Time Series Analysis:** Employed in Global Ocean Temperature and Wine Sales projects for forecasting.
 
 
 
