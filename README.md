@@ -78,10 +78,8 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 </tr>
 </table>
 
-- 📧 [bhanuyash@gmail.com](mailto:bhanuyash@gmail.com)
-- 📞 +91 9108372749
-- [LinkedIn](https://linkedin.com/in/bhanuyash)
-- 📍 Bangalore, India
+| 📧 [bhanuyash@gmail.com](mailto:bhanuyash@gmail.com) | 📞 +91 9108372749 | [LinkedIn](https://linkedin.com/in/bhanuyash) | 📍 Bangalore, India |
+|-----------------------------------------------------|-------------------|------------------------------------------------|---------------------|
 
 <table align="center">
 <tr>
@@ -95,7 +93,15 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 
 As an experienced Electrical Engineer with 3 years of experience in R&D and a General Manager of a healthcare company, I have honed my skills in managing complex datasets, perform statistical analyses, derive insights from data, project management, operations, and leadership. I have also developed a good foundation in data analysis, machine learning, and programming in Python given my background in the tech domain. With a strong passion for data science and a demonstrated track record of success in previous roles, I am eager to apply my skills to deliver in the field of data science.
 
-## EDUCATION
+<table align="center">
+<tr>
+<td>
+
+## **EDUCATION**
+
+</td>
+</tr>
+</table>
 
 | **Degree**                                             | **Institution**                                     | **Location**            | **Year**         |
 |--------------------------------------------------------|-----------------------------------------------------|-------------------------|------------------|
@@ -104,7 +110,15 @@ As an experienced Electrical Engineer with 3 years of experience in R&D and a Ge
 | Master’s in Data Science                               | Deakin University                                   | Melbourne, Australia    | 2022 - 2024     |
 
 
-## SKILLS
+<table align="center">
+<tr>
+<td>
+
+## **SKILLS**
+
+</td>
+</tr>
+</table>
 
 | **Category**                                      | **Skills**                                               |
 |---------------------------------------------------|----------------------------------------------------------|
@@ -115,7 +129,15 @@ As an experienced Electrical Engineer with 3 years of experience in R&D and a Ge
 | **Deep Learning & Language Models**               | TensorFlow, Keras, Prompt Engineering                    |
 | **Programming**                                   | Python, SQL, C, MATLAB                                   |
 
-## PROFESSIONAL EXPERIENCE
+<table align="center">
+<tr>
+<td>
+
+## **PROFESSIONAL EXPERIANCE**
+
+</td>
+</tr>
+</table>
 
 ### **Data Science Intern** | _Cogniquest Technilogies, Bangalore, India_ | _Aug 2023 - Present_
 
@@ -139,11 +161,27 @@ As an experienced Electrical Engineer with 3 years of experience in R&D and a Ge
 
 
 
-### CERTIFICATIONS
+<table align="center">
+<tr>
+<td>
+
+## **CERTIFICATIONS**
+
+</td>
+</tr>
+</table>
 
 - **Data Science Certification** -	Post graduate program in data science and business analytics at Great Lakes Executive Learning in partnership with University of Texas at Austin. Completed successfully on June 2023.
 
-### PUBLICATION
+<table align="center">
+<tr>
+<td>
+
+## **PUBLICATION**
+
+</td>
+</tr>
+</table>
 
 - Steffen Peter, Bhanu Pratap Reddy, Farshad Doktor Momtaz, Tony Givargis. (2016). Design of Secure ECG-based Biometric Authentication in Body Area Sensor Networks. MDPI ‘Sensors’ Journal.16(4), 570. DOI:10.3390/s16040570
 ---
